@@ -1,0 +1,24 @@
+{
+  "name": "atividade-workflow",
+  "description": "Atividade Workflow - Modulo1",
+  "main": "index.js",
+  "authors": [
+    "José Firmino"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "curso",
+    "bootstrap",
+    "workflow",
+    "atividade",
+    "certificacao"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
