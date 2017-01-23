@@ -1,0 +1,29 @@
+{
+  "name": "atividade-workflow",
+  "version": "1.0.0",
+  "description": "Atividade Workflow - Modulo1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curso",
+    "bootstrap",
+    "workflow",
+    "atividade",
+    "certificacao"
+  ],
+  "author": "José Firmino",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "gulp": "^3.9.1",
+    "gulp-htmlmin": "^3.0.0",
+<<<<<<< HEAD
+    "gulp-sass": "^3.1.0"
+=======
+    "gulp-minify-css": "^1.2.4"
+>>>>>>> 9f4e8ff2a3cfaf99749b50c77e65101df0c14c3e
+  },
+  "dependencies": {}
+}
